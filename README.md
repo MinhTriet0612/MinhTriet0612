@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [Cinema Management](https://github.com/realtime-cinema/CinemaManagement)
+- 🔭 I’m currently working on https://github.com/smart-cine/smartcine-server
 
 - 🌱 I’m currently learning **Java Backend**
 <!-- - 💬 Ask me about **MEARN** -->

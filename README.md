@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [SmartCine](https://github.com/smart-cine/smartcine-server)
+- 🔭 I’m currently working on [Wage Cloud](https://github.com/wagecloud/wagecloud-server)
 
 - 🌱 I’m currently learning **Java Backend**
 <!-- - 💬 Ask me about **MEARN** -->

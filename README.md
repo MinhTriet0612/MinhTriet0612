@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-📫 How to reach me **ntriet0612@gmail.com**
+📫 How to reach me **ntriet0612.work@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

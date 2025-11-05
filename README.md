@@ -2,8 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MinhTriet0612&color=blue)
 <h1 align="center">Hi 👋, I'm Minh Triet (Alex Nguyen)</h1>
 <h3 align="center">A passionate Full Stack Developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 📫 How to reach me **ntriet0612.work@gmail.com**
 

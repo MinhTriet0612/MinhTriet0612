@@ -1,7 +1,6 @@
 
 <a href="https://wakatime.com/@018c1be4-f54c-4a1b-9251-889508522a9a"><img src="https://wakatime.com/badge/user/018c1be4-f54c-4a1b-9251-889508522a9a.svg" alt="Total time coded since Nov 29 2023" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=MinhTriet0612&color=blue)
-<h1 align="">Hi 👋, I'm Minh Triet (Alex Nguyen)</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=800&center=true&width=435&lines=Full-Stack+Developer;Always+Learn+New+Things" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 

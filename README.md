@@ -32,7 +32,6 @@
         </a>
       </div>
     </div>
-
     <!-- DevOps Stack -->
     <div style="flex: 1 1 250px;">
       <h4 align="left">DevOps</h4>

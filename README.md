@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MinhTriet0612&color=blue)
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=500&center=true&width=435&lines=Hi+there%2C+I'm+AlexNg!+%F0%9F%91%8B;A+Full-Stack+Developer;Always+Learn+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+AlexNg!+%F0%9F%91%8B;A+Full-Stack+Developer;Always+Learn+New+Things" alt="Typing SVG" /></a>
 </div>
 
 

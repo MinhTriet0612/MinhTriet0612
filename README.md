@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
 
-<h3 align="left">Find me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p>
   <span>
     <a href="https://linkedin.com/in/mtriet06" target="blank">

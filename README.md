@@ -1,3 +1,4 @@
+
 <a href="https://wakatime.com/@018c1be4-f54c-4a1b-9251-889508522a9a"><img src="https://wakatime.com/badge/user/018c1be4-f54c-4a1b-9251-889508522a9a.svg" alt="Total time coded since Nov 29 2023" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=MinhTriet0612&color=blue)
 <h1 align="center">Hi 👋, I'm Minh Triet (Alex Nguyen)</h1>
@@ -15,6 +16,36 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+
+
+  <!-- DevOps + Tools Stack Row -->
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 30px; flex: 1 1 100%;">
+    <!-- Tools & Environment -->
+    <div style="flex: 1 1 250px;">
+      <h4 align="left">Tools & Environment</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="Vim" width="40" height="40"/> 
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+        </a>
+      </div>
+    </div>
+
+    <!-- DevOps Stack -->
+    <div style="flex: 1 1 250px;">
+      <h4 align="left">DevOps</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+        </a>
+      </div>
+    </div>
+  </div>
 
   <!-- Frontend Stack -->
   <div style="flex: 1 1 100%;">
@@ -90,31 +121,4 @@
     </div>
   </div>
 
-  <!-- DevOps + Tools Stack Row -->
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 30px; flex: 1 1 100%;">
-    <!-- DevOps Stack -->
-    <div style="flex: 1 1 250px;">
-      <h4 align="left">DevOps</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-        </a>
-      </div>
-    </div>
-    <!-- Tools & Environment -->
-    <div style="flex: 1 1 250px;">
-      <h4 align="left">Tools & Environment</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="Vim" width="40" height="40"/> 
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-        </a>
-      </div>
-    </div>
-  </div>
 </div>

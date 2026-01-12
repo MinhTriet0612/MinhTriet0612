@@ -7,8 +7,7 @@
 </div>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
-
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
 
 <h3 align="left">Connect with me:</h3>
 <p>

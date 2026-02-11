@@ -39,7 +39,7 @@
       <h4 align="left">Tools & Environment</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="Vim" width="40" height="40"/> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="40" height="40"/> 
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 

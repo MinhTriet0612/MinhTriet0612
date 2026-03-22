@@ -59,34 +59,35 @@
     </div>
   </div>
   
-  <!-- Frontend Stack -->
-  <div style="flex: 1 1 100%;">
-    <h4 align="left">Frontend</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-      </a>
-    </div>
+  <!-- Frontend & Backend Stack -->
+<div style="flex: 1 1 100%;">
+  <h4 align="left">Frontend & Backend</h4>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <!-- Frontend -->
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+             alt="TailwindCSS" width="40" height="40"/> 
+    </a
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+           alt="React" width="40" height="40"/> 
+    </a>
+    <!-- Backend -->
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+           alt="Spring Boot" width="40" height="40"/> 
+    </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg"
+           alt="NestJS" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+           alt="Express.js" width="40" height="40"/>
+    </a>
   </div>
-   
-  <!-- Backend Stack -->
-  <div style="flex: 1 1 250px;">
-      <h4 align="left">Backend</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
-        </a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/>
-        </a>
-          <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://img.icons8.com/color/1200/express-js.jpg" alt="expressjs" width="40" height="40"/>
-        </a>
-      </div>
-    </div>
+</div>
     <!-- Database Stack -->
     <div style="flex: 1 1 250px;">
       <h4 align="left">Database</h4>

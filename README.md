@@ -83,7 +83,7 @@
           <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/>
         </a>
           <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="expressjs" width="40" height="40"/>
+          <img src="https://img.icons8.com/color/1200/express-js.jpg" alt="expressjs" width="40" height="40"/>
         </a>
       </div>
     </div>

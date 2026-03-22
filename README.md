@@ -72,8 +72,8 @@
     </div>
   </div>
    
-    <!-- Backend Stack -->
-    <div style="flex: 1 1 250px;">
+  <!-- Backend Stack -->
+  <div style="flex: 1 1 250px;">
       <h4 align="left">Backend</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 

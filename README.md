@@ -31,7 +31,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
 
-
   <!-- DevOps + Tools Stack Row -->
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 30px; flex: 1 1 100%;">
     <!-- Tools & Environment -->

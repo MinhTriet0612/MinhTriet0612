@@ -27,123 +27,46 @@
   </span>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+<div align="left">
 
-  <!-- DevOps + Tools Stack Row -->
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 30px; flex: 1 1 100%;">
-    <!-- Tools & Environment -->
-    <div style="flex: 1 1 250px;">
-      <h4 align="left">Tools & Environment</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="40" height="40"/> 
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-        </a>
-      </div>
-    </div>
-    <!-- DevOps Stack -->
-    <div style="flex: 1 1 250px;">
-      <h4 align="left">DevOps</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-        </a>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Frontend & Backend Stack -->
-<div style="flex: 1 1 100%;">
-  <h4 align="left">Frontend & Backend</h4>
+<b>🛠 Tools & Environment</b><br/><br/>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-    <!-- Frontend -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-             alt="TailwindCSS" width="40" height="40"/> 
-    </a
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-           alt="React" width="40" height="40"/> 
-    </a>
-    <!-- Backend -->
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-           alt="Spring Boot" width="40" height="40"/> 
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg"
-           alt="NestJS" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-           alt="Express.js" width="40" height="40"/>
-    </a>
-  </div>
-</div>
-    <!-- Database Stack -->
-    <div style="flex: 1 1 250px;">
-      <h4 align="left">Database</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-        </a>
-        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> 
-        </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/>
-        </a>
-        <a href="https://redis.io/" target="_blank" rel="noreferrer">
-          <img src="https://api.civo.com/k3s-marketplace/redis.png" alt="redis" width="40" height="40"/>
-        </a>
-      </div>
-    </div>
+<a href="https://www.vim.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vim" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
 
-<!-- Programming Languages -->
-<h4 align="left">Programming Languages</h4>
+<br/><br/>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-         alt="TypeScript" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="Java" width="40" height="40"/>
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-         alt="C++" width="40" height="40"/>
-  </a>
-  <!-- Go -->
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-         alt="Golang" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40"/>
-  </a>
-</div>
+<b>⚙️ DevOps</b><br/><br/>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<br/><br/>
+
+<b>💻 Frontend & Backend</b><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,spring,nestjs,express" />
+
+<br/><br/>
+
+<b>🗄 Database</b><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" />
+
+<br/><br/>
+
+<b>🧠 Languages</b><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,go,python" />
 
 </div>

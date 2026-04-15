@@ -26,13 +26,12 @@
          style="vertical-align: middle;" />
   </a>
 </p>
-
 <h3 align="left">Languages and Tools</h3>
 
 <div align="left">
 
 <!-- Tools & DevOps -->
-<b>🛠 Tools & Environment</b>
+<b>🛠 Tools & Environment</b><br/><br/>
 <a href="https://www.vim.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="40" style="margin-right:10px;" />
 </a>
@@ -40,7 +39,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" />
 </a>
 
-<b>⚙️ DevOps</b>
+<br/><br/>
+
+<b>⚙️ DevOps</b><br/><br/>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" style="margin-right:10px;" />
 </a>
@@ -48,8 +49,10 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin-right:10px;" />
 </a>
 
+<br/><br/>
+
 <!-- Frontend & Backend -->
-<b>💻 Frontend & Backend</b>
+<b>💻 Frontend & Backend</b><br/><br/>
 
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" style="margin-right:10px;" />
@@ -67,8 +70,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="margin-right:10px;" />
 </a>
 
+<br/><br/>
+
 <!-- Database -->
-<b>🛢️ Database</b>
+<b>🗄 Database</b><br/><br/>
 
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin-right:10px;" />
@@ -86,8 +91,10 @@
   <img src="https://api.civo.com/k3s-marketplace/redis.png" height="40" style="margin-right:10px;" />
 </a>
 
+<br/><br/>
+
 <!-- Languages -->
-<b>🧠 Programming Languages</b>
+<b>🧠 Programming Languages</b><br/><br/>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" />
@@ -108,5 +115,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right:10px;" />
 </a>
 
-</div>
 </div>

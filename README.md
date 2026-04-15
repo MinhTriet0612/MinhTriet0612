@@ -31,40 +31,92 @@
 
 <div align="left">
 
+<!-- Tools & DevOps -->
 <b>🛠 Tools & Environment</b><br/><br/>
-
 <a href="https://www.vim.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vim" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="40" style="margin-right:10px;" />
 </a>
 <a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" />
 </a>
 
 <br/><br/>
 
 <b>⚙️ DevOps</b><br/><br/>
-
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" style="margin-right:10px;" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin-right:10px;" />
 </a>
 
 <br/><br/>
 
+<!-- Frontend & Backend -->
 <b>💻 Frontend & Backend</b><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,spring,nestjs,express" />
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://spring.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://nestjs.com/" target="_blank">
+  <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="margin-right:10px;" />
+</a>
 
 <br/><br/>
 
+<!-- Database -->
 <b>🗄 Database</b><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" />
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://mariadb.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://api.civo.com/k3s-marketplace/redis.png" height="40" style="margin-right:10px;" />
+</a>
 
 <br/><br/>
 
+<!-- Languages -->
+<b>🧠 Programming Languages</b><br/><br/>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://go.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" style="margin-right:10px;" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right:10px;" />
+</a>
+
+</div>
 <b>🧠 Languages</b><br/><br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,go,python" />

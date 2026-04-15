@@ -39,8 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" />
 </a>
 
-<br/><br/>
-
 <b>⚙️ DevOps</b><br/><br/>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" style="margin-right:10px;" />
@@ -48,8 +46,6 @@
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin-right:10px;" />
 </a>
-
-<br/><br/>
 
 <!-- Frontend & Backend -->
 <b>💻 Frontend & Backend</b><br/><br/>
@@ -70,10 +66,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="margin-right:10px;" />
 </a>
 
-<br/><br/>
-
 <!-- Database -->
-<b>🗄 Database</b><br/><br/>
+<b>🛢️ Database</b><br/><br/>
 
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin-right:10px;" />
@@ -90,8 +84,6 @@
 <a href="https://redis.io/" target="_blank">
   <img src="https://api.civo.com/k3s-marketplace/redis.png" height="40" style="margin-right:10px;" />
 </a>
-
-<br/><br/>
 
 <!-- Languages -->
 <b>🧠 Programming Languages</b><br/><br/>

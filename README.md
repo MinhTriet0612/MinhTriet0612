@@ -48,7 +48,7 @@
 </a>
 
 <!-- Frontend & Backend -->
-<b>💻 Frontend & Backend</b><br/><br/>
+<b>💻 Frontend & Backend</b>
 
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" style="margin-right:10px;" />
@@ -67,7 +67,7 @@
 </a>
 
 <!-- Database -->
-<b>🛢️ Database</b><br/><br/>
+<b>🛢️ Database</b>
 
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin-right:10px;" />
@@ -86,7 +86,7 @@
 </a>
 
 <!-- Languages -->
-<b>🧠 Programming Languages</b><br/><br/>
+<b>🧠 Programming Languages</b>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" />

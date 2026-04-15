@@ -65,6 +65,7 @@
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="margin-right:10px;" />
 </a>
+<br/><br/>
 
 <!-- Database -->
 <b>🛢️ Database</b>
@@ -84,6 +85,7 @@
 <a href="https://redis.io/" target="_blank">
   <img src="https://api.civo.com/k3s-marketplace/redis.png" height="40" style="margin-right:10px;" />
 </a>
+<br/><br/>
 
 <!-- Languages -->
 <b>🧠 Programming Languages</b>

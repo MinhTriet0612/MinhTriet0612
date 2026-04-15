@@ -109,8 +109,4 @@
 </a>
 
 </div>
-<b>🧠 Languages</b>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,go,python" />
-
 </div>

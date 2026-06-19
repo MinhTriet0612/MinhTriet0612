@@ -38,8 +38,6 @@
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" style="margin-right:10px;" />
 </a>
-
-<b>⚙️ DevOps</b><br/><br/>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" style="margin-right:10px;" />
 </a>

@@ -58,7 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" style="margin-right:10px;" />
 </a>
 <a href="https://nestjs.com/" target="_blank">
-  <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" height="40" style="margin-right:10px;" />
+  <img src="https://nestjs.com/logo.svg" height="40" style="margin-right:10px;" />
 </a>
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" style="margin-right:10px;" />
